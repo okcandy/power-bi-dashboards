@@ -1,7 +1,5 @@
-#Exploratory Analysis of 120 years of summer Olympic Games
+#Analysis of 120 years of summer Olympic Games
 #How countries have performed historically
-#Physical attributes of athletes over the years
-#Host countries performance. Do countries perform better whenever they host the Olympics?
 #Which nations took home the most medals--over 120 years and each year
 #Participation of Male and Female athletes over time
 
